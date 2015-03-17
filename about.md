@@ -8,4 +8,4 @@ My name is Kyle, and I am a programmer.
 
 This blog is for my code ideas and thoughts.
 
-More about me on my [homepage](http://kylefitch.com/)
+More about me on my [homepage](http://kylefitch.com/).
