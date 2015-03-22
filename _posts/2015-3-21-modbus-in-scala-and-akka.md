@@ -1,8 +1,8 @@
-—
+---
 layout: post
 title: Modbus in Scala ans Akka
 categories: modbus scala akka
-—
+---
 
 This is long overdue.
 
