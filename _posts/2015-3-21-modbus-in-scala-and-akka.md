@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modbus in Scala ans Akka
+title: Modbus in Scala and Akka
 categories: modbus scala akka
 ---
 

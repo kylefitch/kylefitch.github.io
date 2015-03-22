@@ -2,10 +2,10 @@
 title: Kyle Fitch's Code Blog
 email: kyle@kylefitch.com
 description: "Ideas and thoughts on code projects that interest me."
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.kylefitch.com" # the base hostname & protocol for your site
-twitter_username: kyleFitch 
-github_username:  kylefitch 
+baseurl: ""
+url: "http://blog.kylefitch.com"
+twitter_username: kyleFitch
+github_username:  kylefitch
 
 # Build settings
 markdown: kramdown
